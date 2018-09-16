@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>AQUI VAMOS</title>
-</head>
-<body>
-
-</body>
-</html>
